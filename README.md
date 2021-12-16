@@ -15,8 +15,12 @@ In  this API Analysis we look to evaluate different weather statistics based on 
 
 * Plot the hotels on our google heatmap.
 
+![Screenshot 2021-12-15 185431](https://user-images.githubusercontent.com/81705144/146288112-e71dafc0-6481-4067-8973-aad90699204c.png)
+
 
 Observational trends are after the linear regression charts in Weather data
 PNG files of heatmaps are in output data file for Vacation
+
+![Screenshot 2021-12-15 185416](https://user-images.githubusercontent.com/81705144/146288126-358e0f21-ba81-40cd-b9e7-956276a0700d.png)
 
 >- Matthew Villarreal
